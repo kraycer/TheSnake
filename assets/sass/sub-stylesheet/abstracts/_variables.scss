@@ -6,8 +6,8 @@ $bootstrap-sass-asset-helper: false !default;
 
 // Colors
 
-$title-color: #fff;
-$desc-color:#fff;
+$title-color: rgb(0, 0, 0);
+$desc-color:rgb(5, 5, 5);
 $theme-color:#5138ee;
 // $theme-color-2:#ffd700;
 $theme-color-2:#51ff00;
@@ -22,8 +22,8 @@ $body-color-3:#0C1615;
 $royal-blue:#030010;
 $royal-yellow:#00edc5;
 $shadow-color: rgba($royal-blue, $alpha:.2);
-$white-color: #fff;
-$ash-color: #f9fafb;
+$white-color: rgb(0, 0, 0);
+$ash-color: #000000;
 $black-color:#000000;
 $border-color: rgba($white-color, $alpha:.1);
 
