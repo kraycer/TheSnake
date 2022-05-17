@@ -1,5 +1,8 @@
 .preloader .preloader-inner .preloader-icon span {
-    
+    width: 72px;
+    height: 72px;
+    border-radius: 100%;
     background: #ffffff;
-    
+    -webkit-animation: preloader-fx 1.6s linear infinite;
+    animation: preloader-fx 1.6s linear infinite;
 }
