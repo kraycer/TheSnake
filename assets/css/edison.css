@@ -6,3 +6,10 @@
     -webkit-animation: preloader-fx 1.6s linear infinite;
     animation: preloader-fx 1.6s linear infinite;
 }
+
+span  {
+
+
+    background: white;
+
+}
