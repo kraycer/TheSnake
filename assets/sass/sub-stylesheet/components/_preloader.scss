@@ -7,7 +7,7 @@
   @extend %w-100;
   @extend %h-100;
   @extend %of-hidden;
-  background: $body-color;
+  background: $theme-color;
 
   .preloader-inner {
     @extend %p-abs;
