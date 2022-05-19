@@ -13,3 +13,13 @@ span  {
     background: white;
 
 }
+
+img {
+    height: 100%;
+    width: 100%;
+    
+   }
+   .cat {
+    height:100px;
+    width: 100px;
+   }
