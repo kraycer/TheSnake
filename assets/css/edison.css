@@ -2,7 +2,7 @@
     width: 72px;
     height: 72px;
     border-radius: 100%;
-    background: #ff0000;
+    background: #ffffff;
     -webkit-animation: preloader-fx 1.6s linear infinite;
     animation: preloader-fx 1.6s linear infinite;
 }
@@ -10,7 +10,7 @@
 span  {
 
 
-    background: rgb(132, 0, 255);
+    background: white;
 
 }
 
