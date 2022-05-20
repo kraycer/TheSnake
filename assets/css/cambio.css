@@ -1,6 +1,6 @@
 h1,h2,h3,h4,h5,h6{
     text-align: center;
-    color: aqua;
+    color: rgb(62, 19, 219);
 }
 
 .g-5,.gy-5{--bs-gutter-y:-1rem}
@@ -8,7 +8,7 @@ h1,h2,h3,h4,h5,h6{
 
 
     
-.swiper-wrappe .swiper-slide .nft-item home-4 .nft-inner .nft-item-bottom .nft-content a{
+.nft-content a{
         color:rgb(255, 0, 0);
         -webkit-transition:all .3s ease;
         -moz-transition:all .3s ease;
