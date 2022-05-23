@@ -1,6 +1,6 @@
 .banner-wrapper {
     padding-top: 80px;
-    padding-bottom: 0px;
+    padding-bottom: -5px;
 }
 @media (min-width: 992px){
     .banner-wrapper {
