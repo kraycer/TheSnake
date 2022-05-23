@@ -12,7 +12,7 @@
 
     .footer-newsletter {
         border-bottom: 1px solid $border-color;
-        padding-block: 2px;
+        padding-block: 50px;
 
         @include breakpoint(lg) {
             padding-block: 60px;
