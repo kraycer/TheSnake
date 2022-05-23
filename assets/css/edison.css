@@ -28,14 +28,16 @@ img {
    .footer-top .footer-newsletter {
     padding-block: 0px;
     background: #ffffff;
-
+    
 }
 
-body.home-4 {
-    background-color: #ffffff;
-}
 
 .footer-top .social-list .social-link a {
-    background: #ffffff;
-    border-radius: 9px
-
+    background: #5138ee;
+    color: rgb(255, 255, 255);
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 2px;
+    font-size: 20px;
+}
