@@ -28,5 +28,10 @@ img {
    .footer-top .footer-newsletter {
     padding-block: 0px;
     background: #ffffff;
+
+}
+
+body.home-4 {
+    background-color: #ffffff;
 }
 
