@@ -23,3 +23,9 @@ img {
     height:33px;
     width: 40px;
    }
+
+
+   .footer-top .footer-newsletter {
+    padding-block: 0px;
+    background: #0dcaf0;
+}
