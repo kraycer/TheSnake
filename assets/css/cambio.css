@@ -5,7 +5,12 @@ h1,h2,h3,h4,h5,h6{
 .g-5,.gy-5{--bs-gutter-y:-1rem}
 
 
-nft-content{
-    color:rgb(255, 0, 0);
-    display:inline-block;
-    text-decoration:none}
+
+    
+.nft-content a{
+        color:rgb(255, 255, 255);
+        -webkit-transition:all .3s ease;
+        -moz-transition:all .3s ease;
+        transition:all .3s ease;
+        display:inline-block;
+        text-decoration:none}
