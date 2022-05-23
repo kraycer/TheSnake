@@ -27,5 +27,15 @@ img {
 
    .footer-top .footer-newsletter {
     padding-block: 0px;
-    background: #f1f1f1;
+    background: #ffffff;
+}
+
+.footer-top .social-list .social-link a {
+    background: #ffffff;
+    color: #5138ee;
+    width: 58px;
+    height: 189px;
+    line-height: 40px;
+    border-radius: 31px;
+    font-size: 20px;
 }
