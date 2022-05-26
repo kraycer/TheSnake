@@ -23,3 +23,35 @@ img {
     height:33px;
     width: 40px;
    }
+
+
+   .footer-top .footer-newsletter {
+    padding-block: 0px;
+    background: #ffffff;
+    
+}
+
+
+.footer-top .social-list .social-link a {
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 2px;
+    font-size: 20px;
+}
+
+body.home-4 {
+    background-color: #fff;
+}
+
+.footer-top .social-list {
+    gap: 14px;
+    justify-content: center;
+}
+
+.footer-top .social-list .social-link a:hover {
+    border-radius: 99px;
+    background: #12b3ea;
+}
