@@ -51,3 +51,7 @@ body.home-4 {
     justify-content: center;
 }
 
+.footer-top .social-list .social-link a:hover {
+    border-radius: 99px;
+    background: #12b3ea;
+}
