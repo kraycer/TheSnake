@@ -45,3 +45,7 @@ img {
 body.home-4 {
     background-color: #fff;
 }
+
+.footer-top .social-list {
+    gap: 14px;
+}
